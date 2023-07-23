@@ -6,6 +6,7 @@ int main(void)
 	printf("Stridely Solutions");
 	printf("Hello Both of You");
 	printf("Hello All Automatic");
+	printf("Hello Thrice of you");
         return 0;
 }
 
